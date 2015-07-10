@@ -24,7 +24,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pygal_maps_ch",
-    version='1.0.0',
+    version='1.0.1',
     description="Swiss canton map for pygal",
     author="Serge droz",
     url="http://pygal.org/",
